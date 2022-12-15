@@ -25,7 +25,7 @@ function createButtons() {
 window.onload = () => {
 	
 	const title = document.querySelector("#game > h1")
-	title.textContent = "PRESS ENTER TO PLAY"
+	title.textContent = "Pressione Enter para jogar"
 	createButtons()
 	createEventListeners()
 	

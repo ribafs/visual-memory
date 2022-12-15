@@ -10,6 +10,10 @@
   Um jogo pra excercitar a memória feito com Javascript
 </p>
 
+## Alerta
+
+Funciona somente num servidor web
+
 ## 🧠 Motivação
 Esse game é uma "evolução", digamos assim, do [Simon Game](https://github.com/raphaeldevs/simon-game), primeiro jogo que eu fiz com JS e que me trouxe MUITOS aprendizados como Dev.
 

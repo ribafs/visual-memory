@@ -21,7 +21,7 @@ class Game {
 		this.output(`Level ${this.currentLevel}`)
 		this.timers.push( setTimeout(() => this.createSequence(), 750) )
 
-		console.log("> GAME STARTED")
+		console.log("> GAME iniciado")
 	}
 
 	finish() {
@@ -38,7 +38,7 @@ class Game {
 
 		this.output("Game Over")
 
-		setTimeout(() => this.output("PRESS ENTER TO PLAY"), 1000)
+		setTimeout(() => this.output("Pressione Enter para jogar"), 1000)
 
 		console.log("> GAME OVER")
 	}
